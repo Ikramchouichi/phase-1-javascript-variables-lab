@@ -210,7 +210,8 @@ $ git commit -m "complete lab"
 Finally, push your changes up to your GitHub account (your fork of this lab):
 
 ```console
-$ git push
+$
+
 ```
 
 If you go back to your repo in GitHub and refresh the page, you should now see a
