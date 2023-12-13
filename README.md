@@ -231,6 +231,7 @@ The final step is to submit your work to Canvas:
 
 ![CodeGrade window showing tests have all been passed](https://curriculum-content.s3.amazonaws.com/phase-0/completing-assignments-codegrade/codegrade-tests-passing.png)
 
+
 ## Resources
 
 - [MDN: Let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
